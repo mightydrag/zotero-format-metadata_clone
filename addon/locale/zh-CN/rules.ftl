@@ -130,6 +130,13 @@ rule-correct-creators-pinyin-menu-item =
   .label = 拆分作者拼音
 
 
+## correct-creators-full
+rule-correct-creators-full =
+  .label = 作者应使用完整姓名（展开缩写首字母、移除拼音中的连字符）
+rule-correct-creators-full-menu-item =
+  .label = 将作者扩展为完整姓名
+
+
 ## correct-date-format
 rule-correct-date-format =
   .label = 日期应为 ISO YYYY-MM-DD 格式

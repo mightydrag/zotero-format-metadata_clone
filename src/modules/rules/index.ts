@@ -1,6 +1,7 @@
 import type { Rule, RuleForRegularItemScopeItem, RuleForRegularScopeField } from "./rule-base";
 import { getPref } from "../../utils/prefs";
 import { CorrectCreatorsCase } from "./correct-creators-case";
+import { CorrectCreatorsFull } from "./correct-creators-full";
 import { CorrectCreatorsPinyin } from "./correct-creators-pinyin";
 import { CorrectDateFormat, CorrectFilingDateFormat, CorrectIssueDateFormat, CorrectPriorityDateFormat } from "./correct-date-format";
 import { CorrectDOILong } from "./correct-doi-long";
@@ -60,6 +61,7 @@ const register: Rule<any>[] = [
   RequireCreators,
   CorrectCreatorsCase,
   CorrectCreatorsPinyin,
+  CorrectCreatorsFull,
   CorrectCreatorsPunctuation,
 
   // Other general fields

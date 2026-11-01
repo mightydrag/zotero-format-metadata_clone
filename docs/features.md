@@ -69,7 +69,7 @@ If missing, they are retrieved via DOI or title; otherwise, an error is shown.
 
 Ensures that author names use **capitalized words**.
 
-### Correct Full Author Names (`correct-creators-full`) _(planned)_
+### Correct Full Author Names (`correct-creators-full`)
 
 - If initials or abbreviations are found, query full names.
 - For Chinese names, hyphenated pinyin (e.g., `Zhang Jian-Bei`) is supported, but an option can remove hyphens.

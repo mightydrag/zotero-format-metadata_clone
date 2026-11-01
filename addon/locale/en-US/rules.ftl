@@ -130,6 +130,13 @@ rule-correct-creators-pinyin-menu-item =
   .label = Split creator Pinyin
 
 
+## correct-creators-full
+rule-correct-creators-full =
+  .label = Creators should use full names (expand initials, remove hyphens in pinyin names)
+rule-correct-creators-full-menu-item =
+  .label = Expand creators to full names
+
+
 ## correct-date-format
 rule-correct-date-format =
   .label = Date should be ISO YYYY-MM-DD format

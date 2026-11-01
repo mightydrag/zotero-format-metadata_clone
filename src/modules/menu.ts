@@ -102,6 +102,7 @@ function registerItemMenus() {
         makeItemMenu("correct-title-chemical-formula"),
         makeItemMenu("correct-creators-case"),
         makeItemMenu("correct-creators-pinyin"),
+        makeItemMenu("correct-creators-full"),
         makeSeparator(),
         makeItemMenu("require-language"),
         makeItemMenu("tool-set-language"),
