@@ -16,6 +16,7 @@ type ID =
   | "require-creators"
   | "correct-creators-case"
   | "correct-creators-pinyin"
+  | "correct-creators-full"
   | "correct-creators-punctuation"
   | "correct-date-format"
   | "correct-extra-order"

@@ -42,6 +42,8 @@ export type FluentMessageId =
   | 'rule-correct-creators-case-menu-item'
   | 'rule-correct-creators-pinyin'
   | 'rule-correct-creators-pinyin-menu-item'
+  | 'rule-correct-creators-full'
+  | 'rule-correct-creators-full-menu-item'
   | 'rule-correct-creators-punctuation'
   | 'rule-correct-creators-punctuation-menu-field'
   | 'rule-correct-date-format'

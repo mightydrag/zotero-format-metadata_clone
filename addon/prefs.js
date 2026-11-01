@@ -61,6 +61,8 @@ pref("rule.correct-title-punctuation.quotes", false);
 pref("rule.correct-shortTitle-sentence-case", true);
 pref("rule.correct-creators-case", true);
 pref("rule.correct-creators-pinyin", false);
+pref("rule.correct-creators-full", false);
+pref("rule.correct-creators-full.remove-hyphen", true);
 pref("rule.correct-creators-punctuation", true);
 pref("rule.correct-date-format", true);
 pref("rule.correct-filing-date-format", true);

@@ -56,6 +56,8 @@ declare namespace _ZoteroTypes {
       "rule.correct-shortTitle-sentence-case": boolean;
       "rule.correct-creators-case": boolean;
       "rule.correct-creators-pinyin": boolean;
+      "rule.correct-creators-full": boolean;
+      "rule.correct-creators-full.remove-hyphen": boolean;
       "rule.correct-creators-punctuation": boolean;
       "rule.correct-date-format": boolean;
       "rule.correct-filing-date-format": boolean;
